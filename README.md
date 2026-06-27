@@ -29,6 +29,8 @@ Este jogo foi produzido como projeto prático avaliativo durante as aulas da dis
 * **`/Assets`**: Código-fonte, scripts C#, sprites e componentes estruturais criados no Unity.
 * **`/Build`**: Pasta que contém o executável standalone compativel com Windows (`Uvas e Armas.exe`) e os seus ficheiros de dados complementares de execução.
 
+*  ## 🚀 [CLIQUE AQUI PARA BAIXAR E JOGAR A VERSÃO EXECUTÁVEL (.EXE)](https://drive.google.com/drive/folders/1BcptnDKe3jdN2YOabFgocA6ETDzQMSaR?usp=sharing)
+
 ---
 
 ### 🎨 Direitos Autorais e Créditos (Assets de Terceiros)
